@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sanjeet-kushwaha
-- 👀 I’m interested in programming, working on projects and learning new emerging technologies.
-- 🌱 I’m currently doing OCI certification. And my future plan is to learn cloud computing, java programming and DevOps. 
+- 👀 Interested in programming, working on projects and learning new emerging technologies.
 - 📫 You can reach me through instagram - sanjeet.78  is my insta id. 
 
 <!---
